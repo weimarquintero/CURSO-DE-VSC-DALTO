@@ -1,4 +1,4 @@
-let numA = 30
-let numB = 20
-let res = numA + numB
-console.log(res)
+let nombre = "Weimar"
+let apellido = "Quintero"
+saludo = nombre + " " + apellido
+console.log(saludo)
